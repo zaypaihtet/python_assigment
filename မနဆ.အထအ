@@ -1,0 +1,2 @@
+--break-system-packages.
+pip install kthread seleniumbase pandas selenium a_selenium2df PrettyColorPrinter
